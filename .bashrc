@@ -138,4 +138,4 @@ if ! shopt -oq posix; then
   fi
 fi
 
-#. /home/juliomartin/work/scripts/z.sh
+#. /path/to/z.sh
