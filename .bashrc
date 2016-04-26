@@ -137,3 +137,5 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
+
+#. /home/juliomartin/work/scripts/z.sh
